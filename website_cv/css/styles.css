@@ -1,0 +1,50 @@
+
+body {
+    background-color: #d3e0ea;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: chocolate;
+    border-width: 20px;
+    width: 30%;
+}
+img {
+    height: 540px;
+    width: auto;
+}
+img:hover {
+    height: 768px;
+    width: auto;
+}
+table {
+    background-color: black;
+    height: 560px;
+    width: auto;
+}
+
+
+/*
+    -------------- CLASS SELECTORS ------------------
+*/
+
+.intro {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: chocolate;
+    border-width: 20px;
+}
+
+.picture {
+    border-color: grey;
+}
+
+#heading {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 500px;
+    margin-right: 0;
+    font-weight: bold;
+}
